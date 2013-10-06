@@ -1,0 +1,25 @@
+//
+// Prefix header for all source files of the 'MobileStack' target in the 'MobileStack' project
+//
+
+#ifdef __OBJC__
+    #import <Foundation/Foundation.h>
+	#import <UIKit/UIKit.h>
+
+
+@interface UIKeyboard : UIView { 
+};
+
++ (id) automaticKeyboard;
+- (void)orderInWithAnimation:(BOOL)fp8;
+- (void)orderOutWithAnimation:(BOOL)fp8;
+
+@end
+
+#endif
+
+//#define NSLog //
+
+#define STACK_3 1
+
+#define RENAME_WORKING 1

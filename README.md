@@ -1,1 +1,0 @@
-MobileStack for iPhone OS 1.0

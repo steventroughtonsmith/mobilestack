@@ -1,0 +1,15 @@
+9 Oct 08
+- Made stack x position programmable
+- Modified MobileStackContentView to dynamically point the arrow at the right place
+- Switched to inserting/deleting table view rows in prefs
+- Made the cell views code more robust
+
+3 Oct 08
+- Added AdMob
+- Moved Prefs code into a MobileStackPreferenceController class
+
+1 Oct 08
+- Smoothed out fan animation
+- Initial work on dynamic icons (e.g. Calendar)
+- Moved settings icon and improved hit detection
+- Calendar icon now working =)
