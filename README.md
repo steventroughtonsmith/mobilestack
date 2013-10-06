@@ -1,0 +1,1 @@
+MobileStack for iOS 2.0 and 3.0. Includes some variant of v3.0; code has not been cleaned up or tested. Yes I think it's as nasty as you do. In my defense, 2008 was a long time ago!
